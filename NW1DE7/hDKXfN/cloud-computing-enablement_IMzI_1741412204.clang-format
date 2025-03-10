@@ -6,7 +6,6 @@ ContinuationIndentWidth: 16
 AlignAfterOpenBracket: DontAlign
 BreakBeforeBraces: Linux
 AllowShortIfStatementsOnASingleLine: false
-AllowShortFunctionsOnASingleLine: false
 IndentCaseLabels: false
 BreakStringLiterals: false
 BinPackArguments: false

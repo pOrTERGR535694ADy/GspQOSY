@@ -5,7 +5,6 @@ Bundler.require(:default)
 Bundler.require(:test)
 
 <<END.split.each { |f| require f }
-digest/sha2
 open-uri
 unicode_normalize/normalize
 unicode_normalize/tables

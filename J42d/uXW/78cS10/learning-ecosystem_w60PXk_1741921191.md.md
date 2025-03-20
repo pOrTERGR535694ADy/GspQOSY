@@ -39,7 +39,6 @@ Firstly, you can export the **.fig** project file on your **Figma > Menu -> File
 
 ![Figma3](/images/Figma3.png)
 
-Next, click the whole roadmap element and you can export the roadmap image by clicking the export on the right-side menu like the below:
 
 ![Figma4](/images/Figma4.png)
 

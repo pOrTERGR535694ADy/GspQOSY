@@ -28,4 +28,3 @@ repos:
           entry: clang-format --dry-run --Werror
           language: system 
           files: \.(cu|cuh|h|cpp)$
-

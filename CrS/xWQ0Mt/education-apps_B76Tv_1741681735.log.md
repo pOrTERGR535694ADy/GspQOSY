@@ -369,7 +369,6 @@
 * Restored loading of custom.css file
 
 ## [1.7.0] - 06/27/2023
-
 **New:**
 * Initial support for the display of AsciiDoc files ('.adoc' extension) via manual Docsify-This URLs through DownDoc (with thanks and appreciation to @gchiesa for developing the plugin)
 * Support possible Docsify loadSidebar parameter (`loadSidebar=_sidebar.md`) to display a custom sidebar for multiple page sites

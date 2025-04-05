@@ -42,4 +42,3 @@ UseTab: Never
 AlwaysBreakTemplateDeclarations: Yes
 SpaceAfterTemplateKeyword: true
 SortUsingDeclarations: true
-ReflowComments: true
